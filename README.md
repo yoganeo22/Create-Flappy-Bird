@@ -1,4 +1,4 @@
-# Create and Test Flappy Bird
+# Create Flappy Bird
 Create and Test Flappy Bird using python and pygame
 
 ## Instructions

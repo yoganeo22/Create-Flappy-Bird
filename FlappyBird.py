@@ -1,6 +1,6 @@
 """
 The classic game of flappy bird. Make with python and pygame.
-Date Modified:  Nov 28, 2021
+Date Modified:  Nov 27, 2021
 """
 import os
 import sys
